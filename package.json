@@ -18,6 +18,6 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "revolt.js": "^5.2.7"
+    "revolt.js": "^5.2.8"
   }
 }
